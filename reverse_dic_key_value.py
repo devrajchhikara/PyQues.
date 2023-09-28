@@ -1,5 +1,5 @@
 def groups_per_user(group_dictionary):
-  user_groups = {}
+	user_groups = {}
 	# Go through group_dictionary
 	for group, users in group_dictionary.items():
 		# Now go through the users in the group
